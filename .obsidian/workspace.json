@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "e46934c2703e76b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfb3678e60cdd52a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0d4603e6f4c7da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bitcoin/启动.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c3f4fb011c80da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "545b4fa0302e4527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202ac1dc9411f95c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "490f2967d7b1abae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f66f9fcd68aee9b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26c903d658d6758a",
+    "type": "split",
+    "children": [
+      {
+        "id": "326fa0f2c2a44524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f85cb57fefec48ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bitcoin/启动.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40200472b829b015",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bitcoin/启动.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3cf307718132147",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59ca75cc46cf86e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bitcoin/启动.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c0d4603e6f4c7da4",
+  "lastOpenFiles": [
+    "2024-04-14.md",
+    "coin/心得.md",
+    "Pasted image 20240414193108.png",
+    "bitcoin/一些命令.md",
+    "bitcoin/钱包.md",
+    "bitcoin/启动.md",
+    "Welcome.md",
+    "bitcoin/运行模式.md",
+    "未命名.md",
+    "coin",
+    "bitcoin"
+  ]
+}
