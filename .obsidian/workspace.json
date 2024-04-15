@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb3678e60cdd52a",
+        "id": "b34ef89bafad7659",
         "type": "tabs",
         "children": [
           {
-            "id": "c0d4603e6f4c7da4",
+            "id": "8aadf1a226158609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitcoin/一些信息.md",
+                "file": "bitcoin/启动.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitcoin/一些信息.md",
+                "file": "bitcoin/启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitcoin/一些信息.md",
+                "file": "bitcoin/启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitcoin/一些信息.md"
+                "file": "bitcoin/启动.md"
               }
             }
           }
@@ -146,17 +146,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c0d4603e6f4c7da4",
+  "active": "8aadf1a226158609",
   "lastOpenFiles": [
-    "bitcoin/一些信息.md",
-    "bitcoin/一些命令.md",
-    "bitcoin/运行模式.md",
     "bitcoin/钱包.md",
+    "bitcoin/运行模式.md",
+    "bitcoin/一些命令.md",
+    "bitcoin/一些信息.md",
     "bitcoin/启动.md",
+    "linux命令/查找文件.md",
+    "date/2024-04-15.md",
+    "linux命令",
+    "Welcome.md",
     "2024-04-14.md",
+    "date",
     "coin/心得.md",
     "Pasted image 20240414193108.png",
-    "Welcome.md",
     "未命名.md",
     "coin",
     "bitcoin"
