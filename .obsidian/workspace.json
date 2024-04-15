@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitcoin/一些命令.md",
+                "file": "bitcoin/一些信息.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitcoin/一些命令.md",
+                "file": "bitcoin/一些信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitcoin/一些命令.md",
+                "file": "bitcoin/一些信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitcoin/一些命令.md"
+                "file": "bitcoin/一些信息.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "c0d4603e6f4c7da4",
   "lastOpenFiles": [
+    "bitcoin/一些信息.md",
+    "bitcoin/一些命令.md",
+    "bitcoin/运行模式.md",
     "bitcoin/钱包.md",
     "bitcoin/启动.md",
     "2024-04-14.md",
     "coin/心得.md",
     "Pasted image 20240414193108.png",
-    "bitcoin/一些命令.md",
     "Welcome.md",
-    "bitcoin/运行模式.md",
     "未命名.md",
     "coin",
     "bitcoin"
