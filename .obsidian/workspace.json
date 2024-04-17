@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitcoin/钱包.md",
+                "file": "量化交易/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitcoin/钱包.md",
+                "file": "量化交易/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitcoin/钱包.md",
+                "file": "量化交易/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitcoin/钱包.md"
+                "file": "量化交易/1.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "8aadf1a226158609",
   "lastOpenFiles": [
+    "bitcoin/钱包.md",
+    "量化交易/1.md",
+    "量化交易",
     "bitcoin/一些信息.md",
     "bitcoin/一些命令.md",
-    "bitcoin/钱包.md",
     "bitcoin/运行模式.md",
     "date/2024-04-15.md",
     "linux命令/查找文件.md",
