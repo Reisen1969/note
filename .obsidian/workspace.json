@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitcoin/启动.md",
+                "file": "量化交易/k线图.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitcoin/启动.md",
+                "file": "量化交易/k线图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitcoin/启动.md",
+                "file": "量化交易/k线图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitcoin/启动.md"
+                "file": "量化交易/k线图.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "8aadf1a226158609",
   "lastOpenFiles": [
-    "量化交易/1.md",
+    "量化交易/assets/k线图/image-20240417220022473.png",
+    "量化交易/assets/k线图/image-20240417215758513.png",
+    "量化交易/assets/k线图",
+    "量化交易/assets",
+    "bitcoin/启动.md",
+    "量化交易/k线图.md",
     "bitcoin/一些命令.md",
     "bitcoin/钱包.md",
-    "bitcoin/启动.md",
     "coin/心得.md",
     "date/2024-04-15.md",
     "linux命令/查找文件.md",
