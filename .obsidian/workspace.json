@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/1.md",
+                "file": "bitcoin/启动.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/1.md",
+                "file": "bitcoin/启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/1.md",
+                "file": "bitcoin/启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/1.md"
+                "file": "bitcoin/启动.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "8aadf1a226158609",
   "lastOpenFiles": [
-    "pic/Pasted image 20240417213413.png",
     "量化交易/1.md",
-    "pic",
-    "bitcoin/钱包.md",
-    "量化交易",
-    "bitcoin/一些信息.md",
     "bitcoin/一些命令.md",
-    "bitcoin/运行模式.md",
-    "date/2024-04-15.md",
-    "linux命令/查找文件.md",
+    "bitcoin/钱包.md",
     "bitcoin/启动.md",
     "coin/心得.md",
+    "date/2024-04-15.md",
+    "linux命令/查找文件.md",
+    "pic/Pasted image 20240417213413.png",
+    "pic",
+    "量化交易",
+    "bitcoin/一些信息.md",
+    "bitcoin/运行模式.md",
     "linux命令",
     "Welcome.md",
     "2024-04-14.md",
