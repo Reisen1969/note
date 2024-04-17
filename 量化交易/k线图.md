@@ -1,6 +1,8 @@
 https://www.youtube.com/watch?v=bH0yyFTrKUg
 
-![[image-20240417215758513.png]]
+![[assets/k线图/image-20240417225146964.png]]
+
+
 
 下影线的长度是本体的两倍, 一般没有上影线
 
@@ -8,10 +10,14 @@ https://www.youtube.com/watch?v=bH0yyFTrKUg
 
 如果下跌的过程中看到锤子线, 可能会V字反弹
 
-![[image-20240417220022473.png]]
+![[assets/k线图/image-20240417225204282.png]]
+
+
 
 和锤子线相反, 一旦出现在高位, 可能会开始暴跌
 
-![[image-20240417220419476.png]]
+![[assets/k线图/image-20240417225213082.png]]
+
+
 
 表示市场犹豫不决, 买方和卖方在来回拉扯.
