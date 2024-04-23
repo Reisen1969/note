@@ -11,12 +11,8 @@
             "id": "8aadf1a226158609",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coin/心得.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coin/心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coin/心得.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "coin/心得.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,12 @@
   },
   "active": "8aadf1a226158609",
   "lastOpenFiles": [
-    "date/2024-04-15.md",
+    "bitcoin/启动.md",
+    "bitcoin/钱包.md",
+    "bitcoin/一些信息.md",
+    "bitcoin/一些命令.md",
     "coin/心得.md",
+    "date/2024-04-15.md",
     "量化交易/k线图.md",
     "量化交易/assets/k线图/image-20240417225213082.png",
     "量化交易/assets/k线图/image-20240417225204282.png",
@@ -159,14 +155,10 @@
     "量化交易/assets/k线图/image-20240417220022473.png",
     "量化交易/assets/k线图",
     "量化交易/assets",
-    "bitcoin/启动.md",
-    "bitcoin/一些命令.md",
-    "bitcoin/钱包.md",
     "linux命令/查找文件.md",
     "pic/Pasted image 20240417213413.png",
     "pic",
     "量化交易",
-    "bitcoin/一些信息.md",
     "bitcoin/运行模式.md",
     "linux命令",
     "Welcome.md",
