@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coin/心得.md",
+                "file": "coinglass/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coin/心得.md",
+                "file": "coinglass/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coin/心得.md",
+                "file": "coinglass/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coin/心得.md"
+                "file": "coinglass/未命名.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "202ac1dc9411f95c",
+  "active": "8b5165828cbd3a73",
   "lastOpenFiles": [
+    "coin/心得.md",
+    "coinglass/未命名.md",
     "coinglass",
     "date/2024-04-15.md",
     "linux命令/查找文件.md",
@@ -165,11 +167,9 @@
     "pdf/TE-2024-04-13-PDF.pdf",
     "pdf/TE-2024-04-06-PDF.pdf",
     "pdf/TE-2024-03-30-PDF.pdf",
-    "pdf",
     "bitcoin/启动.md",
     "bitcoin/钱包.md",
     "bitcoin/一些命令.md",
-    "coin/心得.md",
     "量化交易/assets/k线图/image-20240417225213082.png",
     "量化交易/assets/k线图/image-20240417225204282.png",
     "量化交易/assets/k线图/image-20240417225146964.png",
