@@ -1,10 +1,7 @@
 ---
-title: wsl2设置sd卡
-date: 2023-10-02 16:09:20
-tags: wsl2
-toc: true
+tags:
+  - wsl2
 ---
-
 
 
 
