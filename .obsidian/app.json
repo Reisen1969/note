@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "vimMode": false,
-  "attachmentFolderPath": "",
+  "attachmentFolderPath": "assets",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true
 }

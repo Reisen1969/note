@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd04c5fc0abee851",
+        "id": "e00eed4ec3e11711",
         "type": "tabs",
         "children": [
           {
-            "id": "8b5165828cbd3a73",
+            "id": "f82c440bcaf03cb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策略/布林带策略 bollinger Bands Strategy.md",
+                "file": "测试图片.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策略/布林带策略 bollinger Bands Strategy.md",
+                "file": "测试图片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策略/布林带策略 bollinger Bands Strategy.md",
+                "file": "测试图片.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "策略/布林带策略 bollinger Bands Strategy.md"
+                "file": "测试图片.md"
               }
             }
           }
@@ -146,44 +146,46 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8b5165828cbd3a73",
+  "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
+    "assets/u=663609189,2681627734&fm=253&fmt=auto&app=138&f=JPEG.webp",
+    "assets/Pasted image 20240429234901.png",
+    "assets/Pasted image 20240429234606.png",
+    "assets/Pasted image 20240429234551.png",
+    "assets/Pasted image 20240429234809.png",
+    "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
+    "测试图片.md",
+    "quantitative trading/StockSharp使用.md",
+    "quantitative trading/lean 使用.md",
+    "coinglass/未命名.md",
+    "coin/心得.md",
     "量化交易/k线图.md",
-    "策略/布林带策略 bollinger Bands Strategy.md",
+    "策略/assets/image-20240429234412942.png",
+    "策略/assets/StockSharp使用/Pasted image 20240429234447.png",
+    "策略/assets/StockSharp使用/Pasted image 20240429234436.png",
+    "策略/assets/StockSharp使用",
+    "assets",
     "策略/assets/布林带策略 bollinger Bands Strategy/image-20240429233909025.png",
     "策略/assets/布林带策略 bollinger Bands Strategy",
     "策略/assets",
     "策略/未命名",
-    "策略",
+    "量化交易/策略",
     "bitcoin/运行模式.md",
     "bitcoin/一些命令.md",
     "bitcoin/钱包.md",
     "bitcoin/启动.md",
-    "指标/未命名.md",
+    "量化交易/指标/未命名.md",
     "pdf/TE-2024-04-06-PDF.pdf",
-    "指标",
+    "量化交易/指标",
     "pdf/TE-2024-04-13-PDF.pdf",
     "pdf/TE-2024-03-30-PDF.pdf",
-    "pdf/TE-2024-03-09-PDF.pdf",
-    "pdf/TA_MAY 2024.pdf",
-    "quantitative trading/StockSharp使用.md",
-    "coinglass/未命名.md",
-    "coin/心得.md",
     "date/2024-04-15.md",
     "linux命令/查找文件.md",
-    "quantitative trading/lean 使用.md",
     "量化交易/StockSharp.md",
     "bitcoin/一些信息.md",
     "量化交易/assets/k线图/image-20240417225213082.png",
     "量化交易/assets/k线图/image-20240417225204282.png",
-    "量化交易/assets/k线图/image-20240417225146964.png",
-    "量化交易/assets/k线图/image-20240417215758513.png",
-    "量化交易/assets/k线图/image-20240417220419476.png",
-    "量化交易/assets/k线图/image-20240417220022473.png",
-    "pic/Pasted image 20240417213413.png",
     "Welcome.md",
-    "2024-04-14.md",
-    "Pasted image 20240414193108.png",
-    "未命名.md"
+    "2024-04-14.md"
   ]
 }
