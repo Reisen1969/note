@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux命令/查找文件.md",
+                "file": "量化交易/时间周期 Time Frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux命令/查找文件.md",
+                "file": "量化交易/时间周期 Time Frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux命令/查找文件.md",
+                "file": "量化交易/时间周期 Time Frame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux命令/查找文件.md"
+                "file": "量化交易/时间周期 Time Frame.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "202ac1dc9411f95c",
+  "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
+    "assets/Pasted image 20240430002103.png",
+    "linux命令/查找文件.md",
+    "量化交易/时间周期 Time Frame.md",
     "杂项/obsidian插入图片.md",
     "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
     "量化交易/指标/gate.io提供的指标.md",
@@ -183,7 +186,6 @@
     "量化交易/指标",
     "pdf/TE-2024-04-13-PDF.pdf",
     "date/2024-04-15.md",
-    "linux命令/查找文件.md",
     "量化交易/StockSharp.md",
     "bitcoin/一些信息.md",
     "Welcome.md",
