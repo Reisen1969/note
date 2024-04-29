@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "指标/未命名.md",
+                "file": "量化交易/k线图.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "指标/未命名.md",
+                "file": "量化交易/k线图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "指标/未命名.md",
+                "file": "量化交易/k线图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "指标/未命名.md"
+                "file": "量化交易/k线图.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "8b5165828cbd3a73",
   "lastOpenFiles": [
-    "pdf/TE-2024-04-06-PDF.pdf",
+    "bitcoin/运行模式.md",
+    "bitcoin/一些命令.md",
+    "bitcoin/钱包.md",
+    "bitcoin/启动.md",
     "指标/未命名.md",
+    "pdf/TE-2024-04-06-PDF.pdf",
     "指标",
     "pdf/TE-2024-04-13-PDF.pdf",
     "pdf/TE-2024-03-30-PDF.pdf",
@@ -168,9 +172,6 @@
     "quantitative trading",
     "量化交易/StockSharp.md",
     "bitcoin/一些信息.md",
-    "bitcoin/启动.md",
-    "bitcoin/钱包.md",
-    "bitcoin/一些命令.md",
     "量化交易/assets/k线图/image-20240417225213082.png",
     "量化交易/assets/k线图/image-20240417225204282.png",
     "量化交易/assets/k线图/image-20240417225146964.png",
@@ -178,7 +179,6 @@
     "量化交易/assets/k线图/image-20240417220419476.png",
     "量化交易/assets/k线图/image-20240417220022473.png",
     "pic/Pasted image 20240417213413.png",
-    "bitcoin/运行模式.md",
     "Welcome.md",
     "2024-04-14.md",
     "Pasted image 20240414193108.png",
