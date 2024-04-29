@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/黄金交叉和死亡交叉.md",
+                "file": "技术相关/wsl2支持识别SD卡.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/黄金交叉和死亡交叉.md",
+                "file": "技术相关/wsl2支持识别SD卡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/黄金交叉和死亡交叉.md",
+                "file": "技术相关/wsl2支持识别SD卡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/黄金交叉和死亡交叉.md"
+                "file": "技术相关/wsl2支持识别SD卡.md"
               }
             }
           }
@@ -148,7 +148,10 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
+    "测试图片.md",
+    "技术相关/wsl2支持识别SD卡.md",
     "量化交易/时间周期 Time Frame.md",
+    "技术相关",
     "量化交易/黄金交叉和死亡交叉.md",
     "quantitative trading/StockSharp使用.md",
     "quantitative trading/lean 使用.md",
@@ -168,7 +171,6 @@
     "assets/Pasted image 20240429235404.png",
     "assets/Pasted image 20240429235308.png",
     "杂项",
-    "测试图片.md",
     "assets/u=663609189,2681627734&fm=253&fmt=auto&app=138&f=JPEG.webp",
     "assets/Pasted image 20240429234901.png",
     "assets/Pasted image 20240429234606.png",
@@ -186,7 +188,6 @@
     "量化交易/策略",
     "pdf/TE-2024-04-06-PDF.pdf",
     "量化交易/指标",
-    "pdf/TE-2024-04-13-PDF.pdf",
     "量化交易/StockSharp.md",
     "Welcome.md",
     "2024-04-14.md"
