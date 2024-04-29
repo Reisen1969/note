@@ -1,6 +1,7 @@
 {
   "promptDelete": false,
   "vimMode": false,
-  "attachmentFolderPath": "./assets/布林带策略 bollinger Bands Strategy",
-  "newLinkFormat": "relative"
+  "attachmentFolderPath": "",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
