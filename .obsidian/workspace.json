@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/时间周期 Time Frame.md",
+                "file": "quantitative trading/StockSharp使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/时间周期 Time Frame.md",
+                "file": "quantitative trading/StockSharp使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/时间周期 Time Frame.md",
+                "file": "quantitative trading/StockSharp使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/时间周期 Time Frame.md"
+                "file": "quantitative trading/StockSharp使用.md"
               }
             }
           }
@@ -146,11 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f82c440bcaf03cb3",
+  "active": "202ac1dc9411f95c",
   "lastOpenFiles": [
-    "assets/Pasted image 20240430002103.png",
+    "quantitative trading/lean 使用.md",
     "linux命令/查找文件.md",
+    "date/2024-04-15.md",
+    "bitcoin/一些信息.md",
+    "bitcoin/一些命令.md",
+    "bitcoin/启动.md",
+    "bitcoin/钱包.md",
+    "bitcoin/运行模式.md",
     "量化交易/时间周期 Time Frame.md",
+    "assets/Pasted image 20240430002103.png",
     "杂项/obsidian插入图片.md",
     "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
     "量化交易/指标/gate.io提供的指标.md",
@@ -166,28 +173,20 @@
     "assets/Pasted image 20240429234551.png",
     "assets/Pasted image 20240429234809.png",
     "quantitative trading/StockSharp使用.md",
-    "quantitative trading/lean 使用.md",
     "coinglass/未命名.md",
     "coin/心得.md",
     "量化交易/k线图.md",
     "策略/assets/image-20240429234412942.png",
-    "策略/assets/StockSharp使用/Pasted image 20240429234447.png",
     "策略/assets/StockSharp使用",
     "assets",
     "策略/assets/布林带策略 bollinger Bands Strategy",
     "策略/assets",
     "策略/未命名",
     "量化交易/策略",
-    "bitcoin/运行模式.md",
-    "bitcoin/一些命令.md",
-    "bitcoin/钱包.md",
-    "bitcoin/启动.md",
     "pdf/TE-2024-04-06-PDF.pdf",
     "量化交易/指标",
     "pdf/TE-2024-04-13-PDF.pdf",
-    "date/2024-04-15.md",
     "量化交易/StockSharp.md",
-    "bitcoin/一些信息.md",
     "Welcome.md",
     "2024-04-14.md"
   ]
