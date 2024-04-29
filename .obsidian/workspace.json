@@ -11,9 +11,11 @@
             "id": "8b5165828cbd3a73",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/TE-2024-04-06-PDF.pdf"
+                "file": "指标/未命名.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/TE-2024-04-06-PDF.pdf",
+                "file": "指标/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/TE-2024-04-06-PDF.pdf",
+                "file": "指标/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/TE-2024-04-06-PDF.pdf"
+                "file": "指标/未命名.md"
               }
             }
           }
@@ -146,6 +148,9 @@
   },
   "active": "8b5165828cbd3a73",
   "lastOpenFiles": [
+    "pdf/TE-2024-04-06-PDF.pdf",
+    "指标/未命名.md",
+    "指标",
     "pdf/TE-2024-04-13-PDF.pdf",
     "pdf/TE-2024-03-30-PDF.pdf",
     "pdf/TE-2024-03-09-PDF.pdf",
@@ -153,7 +158,6 @@
     "pdf/TE_2024-03-23-PDF.pdf",
     "pdf/TE-2024-04-20-PDF.pdf",
     "quantitative trading/StockSharp使用.md",
-    "pdf/TE-2024-04-06-PDF.pdf",
     "coinglass/未命名.md",
     "coin/心得.md",
     "coinglass",
@@ -163,7 +167,6 @@
     "量化交易/k线图.md",
     "quantitative trading",
     "量化交易/StockSharp.md",
-    "未命名",
     "bitcoin/一些信息.md",
     "bitcoin/启动.md",
     "bitcoin/钱包.md",
