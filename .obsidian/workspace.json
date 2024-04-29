@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/k线图.md",
+                "file": "策略/布林带策略 bollinger Bands Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/k线图.md",
+                "file": "策略/布林带策略 bollinger Bands Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/k线图.md",
+                "file": "策略/布林带策略 bollinger Bands Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/k线图.md"
+                "file": "策略/布林带策略 bollinger Bands Strategy.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "8b5165828cbd3a73",
   "lastOpenFiles": [
+    "量化交易/k线图.md",
+    "策略/布林带策略 bollinger Bands Strategy.md",
+    "策略",
     "bitcoin/运行模式.md",
     "bitcoin/一些命令.md",
     "bitcoin/钱包.md",
@@ -168,8 +171,6 @@
     "date/2024-04-15.md",
     "linux命令/查找文件.md",
     "quantitative trading/lean 使用.md",
-    "量化交易/k线图.md",
-    "quantitative trading",
     "量化交易/StockSharp.md",
     "bitcoin/一些信息.md",
     "量化交易/assets/k线图/image-20240417225213082.png",
