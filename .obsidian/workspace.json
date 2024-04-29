@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/obsidian.md",
+                "file": "量化交易/指标/gate.io提供的指标.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/obsidian.md",
+                "file": "量化交易/指标/gate.io提供的指标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/obsidian.md",
+                "file": "量化交易/指标/gate.io提供的指标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/obsidian.md"
+                "file": "量化交易/指标/gate.io提供的指标.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
+    "assets/Pasted image 20240430000110.png",
+    "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
+    "量化交易/指标/gate.io提供的指标.md",
     "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
-    "杂项/obsidian.md",
+    "杂项/obsidian插入图片.md",
+    "assets/Pasted image 20240429235404.png",
+    "assets/Pasted image 20240429235308.png",
     "杂项",
     "测试图片.md",
     "assets/u=663609189,2681627734&fm=253&fmt=auto&app=138&f=JPEG.webp",
@@ -167,7 +172,6 @@
     "策略/assets/StockSharp使用/Pasted image 20240429234436.png",
     "策略/assets/StockSharp使用",
     "assets",
-    "策略/assets/布林带策略 bollinger Bands Strategy/image-20240429233909025.png",
     "策略/assets/布林带策略 bollinger Bands Strategy",
     "策略/assets",
     "策略/未命名",
@@ -176,7 +180,6 @@
     "bitcoin/一些命令.md",
     "bitcoin/钱包.md",
     "bitcoin/启动.md",
-    "量化交易/指标/未命名.md",
     "pdf/TE-2024-04-06-PDF.pdf",
     "量化交易/指标",
     "pdf/TE-2024-04-13-PDF.pdf",
@@ -184,7 +187,6 @@
     "linux命令/查找文件.md",
     "量化交易/StockSharp.md",
     "bitcoin/一些信息.md",
-    "量化交易/assets/k线图/image-20240417225213082.png",
     "Welcome.md",
     "2024-04-14.md"
   ]
