@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
+                "file": "量化交易/策略/布林通道BollingerBands strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
+                "file": "量化交易/策略/布林通道BollingerBands strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
+                "file": "量化交易/策略/布林通道BollingerBands strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/策略/布林带策略 bollinger Bands Strategy.md"
+                "file": "量化交易/策略/布林通道BollingerBands strategy.md"
               }
             }
           }
@@ -150,12 +149,13 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
+    "assets/Pasted image 20240501163358.png",
+    "量化交易/策略/布林肯特纳挤压 Bollinger Bands keltner Squeeze.md",
+    "量化交易/策略/布林通道BollingerBands strategy.md",
     "量化交易/TV策略.md",
     "量化交易/黄金交叉和死亡交叉.md",
     "量化交易/止盈止损&杠杆.md",
     "量化交易/时间周期 Time Frame.md",
-    "量化交易/策略/布林肯特纳挤压 Bollinger Bands keltner Squeeze.md",
-    "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
     "技术相关/wsl2支持识别SD卡.md",
     "技术相关/riscv启动kernal.md",
     "quantitative trading/StockSharp使用.md",
@@ -186,7 +186,6 @@
     "assets/Pasted image 20240429234809.png",
     "coinglass/未命名.md",
     "coin/心得.md",
-    "量化交易/k线图.md",
     "策略/assets/image-20240429234412942.png",
     "策略/assets/StockSharp使用",
     "assets",
