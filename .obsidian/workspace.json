@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/TV策略.md",
+                "file": "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/TV策略.md",
+                "file": "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/TV策略.md",
+                "file": "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/TV策略.md"
+                "file": "量化交易/策略/布林带策略 bollinger Bands Strategy.md"
               }
             }
           }
@@ -149,8 +150,8 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
-    "量化交易/黄金交叉和死亡交叉.md",
     "量化交易/TV策略.md",
+    "量化交易/黄金交叉和死亡交叉.md",
     "量化交易/止盈止损&杠杆.md",
     "量化交易/时间周期 Time Frame.md",
     "量化交易/策略/布林肯特纳挤压 Bollinger Bands keltner Squeeze.md",
