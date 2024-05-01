@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
+                "file": "量化交易/止盈止损&杠杆.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
+                "file": "量化交易/止盈止损&杠杆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
+                "file": "量化交易/止盈止损&杠杆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/指标/MA 移动平均线（Moving Avarage）.md"
+                "file": "量化交易/止盈止损&杠杆.md"
               }
             }
           }
@@ -147,19 +147,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "202ac1dc9411f95c",
+  "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
-    "量化交易/指标/gate.io提供的指标.md",
-    "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
-    "量化交易/黄金交叉和死亡交叉.md",
-    "量化交易/时间周期 Time Frame.md",
+    "杂项/obsidian文件属性.md",
+    "杂项/obsidian插入图片.md",
+    "技术相关/wsl2支持识别SD卡.md",
     "技术相关/riscv启动kernal.md",
+    "量化交易/止盈止损&杠杆.md",
+    "量化交易/时间周期 Time Frame.md",
+    "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
+    "量化交易/黄金交叉和死亡交叉.md",
+    "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
+    "量化交易/指标/gate.io提供的指标.md",
     "测试图片.md",
     "未命名.md",
-    "技术相关/wsl2支持识别SD卡.md",
-    "杂项/obsidian文件属性.md",
     "assets/Pasted image 20240429234901.png",
-    "杂项/obsidian插入图片.md",
     "技术相关",
     "quantitative trading/StockSharp使用.md",
     "quantitative trading/lean 使用.md",
@@ -171,7 +173,6 @@
     "bitcoin/钱包.md",
     "bitcoin/运行模式.md",
     "assets/Pasted image 20240430002103.png",
-    "量化交易/策略/布林带策略 bollinger Bands Strategy.md",
     "assets/Pasted image 20240430000110.png",
     "assets/Pasted image 20240429235404.png",
     "assets/Pasted image 20240429235308.png",
@@ -193,7 +194,6 @@
     "pdf/TE-2024-04-06-PDF.pdf",
     "量化交易/指标",
     "量化交易/StockSharp.md",
-    "Welcome.md",
-    "2024-04-14.md"
+    "Welcome.md"
   ]
 }
