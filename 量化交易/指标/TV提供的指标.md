@@ -1,0 +1,1 @@
+https://cn.tradingview.com/support/folders/43000587405/

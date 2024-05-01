@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/指标/肯特纳通道.md",
+                "file": "量化交易/指标/布林通道.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/指标/肯特纳通道.md",
+                "file": "量化交易/指标/布林通道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/指标/肯特纳通道.md",
+                "file": "量化交易/指标/布林通道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/指标/肯特纳通道.md"
+                "file": "量化交易/指标/布林通道.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
-    "量化交易/策略/布林通道三合一策略.md",
+    "量化交易/指标/TV提供的指标.md",
     "量化交易/指标/肯特纳通道.md",
+    "量化交易/策略/布林通道三合一策略.md",
     "量化交易/指标/布林通道.md",
     "量化交易/指标/gate.io提供的指标.md",
     "assets/Pasted image 20240501165517.png",
@@ -186,7 +187,6 @@
     "assets/u=663609189,2681627734&fm=253&fmt=auto&app=138&f=JPEG.webp",
     "assets/Pasted image 20240429234606.png",
     "assets/Pasted image 20240429234551.png",
-    "coinglass/未命名.md",
     "策略/assets/StockSharp使用",
     "assets",
     "策略/assets/布林带策略 bollinger Bands Strategy",
