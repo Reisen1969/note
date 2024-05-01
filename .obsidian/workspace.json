@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
+                "file": "量化交易/指标/肯特纳通道 Keltner Channels.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
+                "file": "量化交易/指标/肯特纳通道 Keltner Channels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
+                "file": "量化交易/指标/肯特纳通道 Keltner Channels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/指标/MA 移动平均线（Moving Avarage）.md"
+                "file": "量化交易/指标/肯特纳通道 Keltner Channels.md"
               }
             }
           }
@@ -149,19 +149,23 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
+    "量化交易/指标/随机指标 Stochastics.md",
+    "量化交易/策略/布林肯特纳挤压 Bollinger Bands keltner Squeeze.md",
+    "量化交易/指标/肯特纳通道 Keltner Channels.md",
+    "assets/Pasted image 20240502041146.png",
+    "assets/Pasted image 20240502041128.png",
+    "assets/Pasted image 20240502041107.png",
+    "量化交易/黄金交叉和死亡交叉.md",
+    "量化交易/时间周期 Time Frame.md",
+    "量化交易/指标/布林带BB.md",
+    "assets/Pasted image 20240502041005.png",
     "量化交易/指标/gate.io提供的指标.md",
     "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
-    "量化交易/指标/布林带BB.md",
-    "量化交易/指标/肯特纳通道 Keltner Channels.md",
     "量化交易/指标/TV提供的指标.md",
-    "量化交易/策略/布林通道三合一策略.md",
     "assets/Pasted image 20240501165517.png",
     "assets/Pasted image 20240501163358.png",
-    "量化交易/策略/布林肯特纳挤压 Bollinger Bands keltner Squeeze.md",
     "量化交易/TV策略.md",
-    "量化交易/黄金交叉和死亡交叉.md",
     "量化交易/止盈止损&杠杆.md",
-    "量化交易/时间周期 Time Frame.md",
     "技术相关/wsl2支持识别SD卡.md",
     "技术相关/riscv启动kernal.md",
     "quantitative trading/StockSharp使用.md",
@@ -178,15 +182,10 @@
     "bitcoin/一些命令.md",
     "bitcoin/启动.md",
     "bitcoin/钱包.md",
-    "bitcoin/运行模式.md",
     "assets/Pasted image 20240430002103.png",
     "assets/Pasted image 20240430000110.png",
     "assets/Pasted image 20240429235404.png",
-    "assets/Pasted image 20240429235308.png",
     "杂项",
-    "assets/u=663609189,2681627734&fm=253&fmt=auto&app=138&f=JPEG.webp",
-    "assets/Pasted image 20240429234606.png",
-    "assets/Pasted image 20240429234551.png",
     "策略/assets/StockSharp使用",
     "assets",
     "策略/assets/布林带策略 bollinger Bands Strategy",
