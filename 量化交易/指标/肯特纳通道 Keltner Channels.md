@@ -1,4 +1,4 @@
-
+https://cn.tradingview.com/support/solutions/43000502266/
 
 [肯特纳通道 (KC) 指标](https://cn.tradingview.com/scripts/keltnerchannels/)是一种带状指标，类似于布林带和移动平均线。它由三条线组成：上轨、中轨和下轨。中轨是用户自定义时间周期的移动平均值，通常采用简单移动平均线或指数移动平均线。上轨和下轨设置为距离中轨一定范围（由用户自定义）。可以设为日内最高/最低范围的倍数，或更常见的是平均真实波幅(ATR)的倍数。
 
