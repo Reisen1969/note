@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/策略/布林通道BollingerBands strategy.md",
+                "file": "量化交易/策略/布林通道三合一策略.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/策略/布林通道BollingerBands strategy.md",
+                "file": "量化交易/策略/布林通道三合一策略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/策略/布林通道BollingerBands strategy.md",
+                "file": "量化交易/策略/布林通道三合一策略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/策略/布林通道BollingerBands strategy.md"
+                "file": "量化交易/策略/布林通道三合一策略.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
+    "assets/Pasted image 20240501165517.png",
     "assets/Pasted image 20240501163358.png",
     "量化交易/策略/布林肯特纳挤压 Bollinger Bands keltner Squeeze.md",
-    "量化交易/策略/布林通道BollingerBands strategy.md",
+    "量化交易/策略/布林通道三合一策略.md",
     "量化交易/TV策略.md",
     "量化交易/黄金交叉和死亡交叉.md",
     "量化交易/止盈止损&杠杆.md",
@@ -186,7 +187,6 @@
     "assets/Pasted image 20240429234809.png",
     "coinglass/未命名.md",
     "coin/心得.md",
-    "策略/assets/image-20240429234412942.png",
     "策略/assets/StockSharp使用",
     "assets",
     "策略/assets/布林带策略 bollinger Bands Strategy",
