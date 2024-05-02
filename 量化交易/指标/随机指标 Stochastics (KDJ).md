@@ -13,7 +13,7 @@ KDJ指标的学名叫做“Stochastic Oscillator”，标准的译法是“随�
 
 %K = SMA(100 * (Current Close - Lowest Low) / (Highest High - Lowest Low), smoothK)
 
-
+Current Close  是当前的收盘价，Lowest Low 是一定时间范围内的最低价，Highest High 是一定时间范围内的最高价。
 
 
 
