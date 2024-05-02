@@ -15,3 +15,6 @@ KDJ指标的学名叫做“Stochastic Oscillator”，标准的译法是“随�
 
 
 
+%D 是 %K 的平滑平均值，以在保持较大趋势的同时最小化洗盘。
+
+%D = SMA(%K, periodD)
