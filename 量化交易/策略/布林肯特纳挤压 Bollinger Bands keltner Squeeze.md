@@ -14,11 +14,15 @@ KDJ指标
 ►Bollinger Band - Keltner Squeeze - Failed Volatility Breakout｜juanc2316
 ►参数默认
 
+![](../../assets/Pasted%20image%2020240503160822.png)
+
 🟣TradingView｜指标名称｜作者 
 ►KDJ ｜Ee20
 ►Period参数9 改为25
 
+![](../../assets/Pasted%20image%2020240503160756.png)
 
+1小时图表
 
 ## 策略
 
@@ -26,4 +30,10 @@ KDJ指标
 很大几率产生趋势爆发.
 
 ![](../../assets/Pasted%20image%2020240503155114.png)
+
+当出现蓝底时就是我们的入场信号
+![](../../assets/Pasted%20image%2020240503160052.png)
+
+
+### 多单规则
 
