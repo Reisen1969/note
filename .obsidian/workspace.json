@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "titan/docker.md",
+                "file": "量化交易/策略/布林肯特纳挤压 Bollinger Bands keltner Squeeze.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "titan/docker.md",
+                "file": "量化交易/策略/布林肯特纳挤压 Bollinger Bands keltner Squeeze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "titan/docker.md",
+                "file": "量化交易/策略/布林肯特纳挤压 Bollinger Bands keltner Squeeze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "titan/docker.md"
+                "file": "量化交易/策略/布林肯特纳挤压 Bollinger Bands keltner Squeeze.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
     "量化交易/指标/随机指标 Stochastics (KDJ).md",
-    "量化交易/指标/肯特纳通道 Keltner Channels.md",
     "titan/docker.md",
+    "量化交易/指标/肯特纳通道 Keltner Channels.md",
     "titan",
     "量化交易/指标/布林带BB.md",
     "量化交易/止盈止损&杠杆.md",
