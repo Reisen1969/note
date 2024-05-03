@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=ifWUYXnWJtY&t=168s
 
-
+使用1小时图表
 
 ## 指标
 
@@ -69,9 +69,20 @@ KDJ指标
 
 ### 历史K线测试  ETH
 
+
+
 2024/03/12 22:00  多单
 
 ![](../../assets/Pasted%20image%2020240503165532.png)
+
+
+2024/02/24 10;00  多单
+
+![](../../assets/Pasted%20image%2020240503170052.png)
+
+2024/02/17  21:00  多单
+
+![](../../assets/Pasted%20image%2020240503170448.png)
 
 
 
