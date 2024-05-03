@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
+                "file": "titan/docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
+                "file": "titan/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
+                "file": "titan/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md"
+                "file": "titan/docker.md"
               }
             }
           }
@@ -150,9 +149,9 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
+    "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "量化交易/指标/肯特纳通道 Keltner Channels.md",
     "titan/docker.md",
-    "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "titan",
     "量化交易/指标/布林带BB.md",
     "量化交易/止盈止损&杠杆.md",
