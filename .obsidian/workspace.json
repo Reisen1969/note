@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/指标/MACD.md",
+                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/指标/MACD.md",
+                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/指标/MACD.md",
+                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/指标/MACD.md"
+                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
-    "量化交易/策略/布林通道机器人.md",
     "量化交易/指标/MACD.md",
+    "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
+    "量化交易/指标/TV提供的指标.md",
+    "量化交易/黄金交叉和死亡交叉.md",
+    "量化交易/指标/随机指标 Stochastics (KDJ).md",
+    "量化交易/策略/布林通道机器人.md",
     "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
     "assets/Pasted image 20240503170448.png",
@@ -159,10 +163,7 @@
     "assets/Pasted image 20240503160822.png",
     "assets/Pasted image 20240503160756.png",
     "assets/Pasted image 20240503160751.png",
-    "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "量化交易/指标/肯特纳通道 Keltner Channels.md",
-    "量化交易/指标/TV提供的指标.md",
-    "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
     "assets/Pasted image 20240503160512.png",
     "assets/Pasted image 20240503160052.png",
     "量化交易/指标/布林带BB.md",
@@ -172,7 +173,6 @@
     "量化交易/止盈止损&杠杆.md",
     "assets/Pasted image 20240502054000.png",
     "量化交易/指标/gate.io提供的指标.md",
-    "量化交易/黄金交叉和死亡交叉.md",
     "量化交易/TV策略.md",
     "量化交易/时间周期 Time Frame.md",
     "技术相关/wsl2支持识别SD卡.md",
