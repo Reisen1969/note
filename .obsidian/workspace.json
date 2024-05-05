@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/策略/布林通道机器人.md",
+                "file": "量化交易/指标/MACD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/策略/布林通道机器人.md",
+                "file": "量化交易/指标/MACD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/策略/布林通道机器人.md",
+                "file": "量化交易/指标/MACD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/策略/布林通道机器人.md"
+                "file": "量化交易/指标/MACD.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
-    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "量化交易/策略/布林通道机器人.md",
+    "量化交易/指标/MACD.md",
+    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
     "assets/Pasted image 20240503170448.png",
     "assets/Pasted image 20240503170052.png",
@@ -186,7 +187,6 @@
     "技术相关",
     "date/2024-04-15.md",
     "bitcoin/一些信息.md",
-    "bitcoin/一些命令.md",
     "杂项",
     "策略/assets/StockSharp使用",
     "assets",
