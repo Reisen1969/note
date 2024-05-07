@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -149,6 +150,9 @@
   },
   "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
+    "assets/Pasted image 20240508013441.png",
+    "assets/Pasted image 20240508013233.png",
+    "assets/Pasted image 20240508013220.png",
     "量化交易/指标/布林带BB.md",
     "量化交易/指标/均线.md",
     "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
@@ -171,8 +175,6 @@
     "assets/Pasted image 20240503170052.png",
     "assets/Pasted image 20240503165532.png",
     "assets/Pasted image 20240503160822.png",
-    "assets/Pasted image 20240503160756.png",
-    "assets/Pasted image 20240503160751.png",
     "titan/docker.md",
     "titan",
     "量化交易/指标/gate.io提供的指标.md",
