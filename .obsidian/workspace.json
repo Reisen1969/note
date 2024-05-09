@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/策略/道氏理论123, 2B.md",
+                "file": "量化交易/趋势线.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/策略/道氏理论123, 2B.md",
+                "file": "量化交易/趋势线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/策略/道氏理论123, 2B.md",
+                "file": "量化交易/趋势线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/策略/道氏理论123, 2B.md"
+                "file": "量化交易/趋势线.md"
               }
             }
           }
@@ -149,9 +149,13 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "assets/Pasted image 20240509165005.png",
+    "assets/Pasted image 20240509164949.png",
+    "assets/Pasted image 20240509164754.png",
+    "量化交易/策略/道氏理论123, 2B.md",
+    "量化交易/趋势线.md",
     "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "量化交易/策略/布林通道机器人.md",
-    "量化交易/策略/道氏理论123, 2B.md",
     "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
     "量化交易/指标/均线.md",
     "量化交易/指标/布林带BB.md",
@@ -173,8 +177,6 @@
     "assets/Pasted image 20240508014411.png",
     "assets/Pasted image 20240508014108.png",
     "assets/Pasted image 20240508013655.png",
-    "assets/Pasted image 20240508013441.png",
-    "assets/Pasted image 20240508013233.png",
     "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
     "量化交易/指标/TV提供的指标.md",
     "titan/docker.md",
@@ -184,8 +186,6 @@
     "技术相关/riscv启动kernal.md",
     "quantitative trading/StockSharp使用.md",
     "quantitative trading/lean 使用.md",
-    "linux命令/查找文件.md",
-    "杂项/obsidian文件属性.md",
     "技术相关",
     "杂项",
     "策略/assets/StockSharp使用",
