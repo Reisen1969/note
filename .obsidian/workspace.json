@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
+                "file": "量化交易/策略/道氏理论123, 2B.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
+                "file": "量化交易/策略/道氏理论123, 2B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
+                "file": "量化交易/策略/道氏理论123, 2B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md"
+                "file": "量化交易/策略/道氏理论123, 2B.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "量化交易/策略/布林通道机器人.md",
     "量化交易/策略/道氏理论123, 2B.md",
     "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
@@ -163,7 +164,6 @@
     "assets/Pasted image 20240509162406.png",
     "assets/Pasted image 20240509162242.png",
     "assets/Pasted image 20240509160918.png",
-    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "date/2024-05-08.md",
     "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "量化交易/指标/肯特纳通道 Keltner Channels.md",
