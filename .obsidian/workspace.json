@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date/2024-05-09.md",
+                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date/2024-05-09.md",
+                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "date/2024-05-09.md"
+                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md"
               }
             }
           }
@@ -161,10 +160,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b484c47e02a29285",
+  "active": "f82c440bcaf03cb3",
   "lastOpenFiles": [
-    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "date/2024-05-09.md",
+    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "date/2024-05-08.md",
     "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "量化交易/指标/肯特纳通道 Keltner Channels.md",
