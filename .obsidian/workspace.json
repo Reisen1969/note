@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "date/2024-05-09.md",
+                "file": "量化交易/盈亏比.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date/2024-05-09.md",
+                "file": "量化交易/盈亏比.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date/2024-05-09.md",
+                "file": "量化交易/盈亏比.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "date/2024-05-09.md"
+                "file": "量化交易/盈亏比.md"
               }
             }
           }
@@ -149,9 +149,13 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "量化交易/回调.md",
+    "量化交易/盈亏比.md",
+    "量化交易/趋势线.md",
+    "量化交易/时间周期 Time Frame.md",
+    "date/2024-05-09.md",
     "date/2024-04-15.md",
     "date/2024-05-08.md",
-    "date/2024-05-09.md",
     "量化交易/指标/布林带BB.md",
     "量化交易/指标/成交量.md",
     "量化交易/指标/均线.md",
@@ -162,8 +166,6 @@
     "量化交易/指标/TV提供的指标.md",
     "量化交易/策略/道氏理论123, 2B.md",
     "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
-    "量化交易/回调.md",
-    "量化交易/趋势线.md",
     "assets/Pasted image 20240509183725.png",
     "assets/Pasted image 20240509183411.png",
     "assets/Pasted image 20240509183237.png",
@@ -178,14 +180,12 @@
     "量化交易/策略/布林通道机器人.md",
     "量化交易/TV策略.md",
     "量化交易/止盈止损&杠杆.md",
-    "量化交易/时间周期 Time Frame.md",
     "量化交易/黄金交叉和死亡交叉.md",
     "titan/docker.md",
     "titan",
     "量化交易/指标/gate.io提供的指标.md",
     "技术相关/wsl2支持识别SD卡.md",
     "技术相关/riscv启动kernal.md",
-    "quantitative trading/StockSharp使用.md",
     "技术相关",
     "杂项",
     "策略/assets/StockSharp使用",
