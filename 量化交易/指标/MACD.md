@@ -1,3 +1,29 @@
+### 结论
+
+DIFF 又叫做 MACD
+DEA 又叫做 信号
+
+
+![](../../assets/Pasted%20image%2020240511003832.png)
+
+![](../../assets/Pasted%20image%2020240511003840.png)
+
+
+
+
+![](../../assets/Pasted%20image%2020240511004015.png)
+
+
+![](../../assets/Pasted%20image%2020240511004104.png)
+
+
+![](../../assets/Pasted%20image%2020240511004219.png)
+
+
+柱子越高 代表上涨, 下跌趋势越强
+
+
+
 指数平滑异同移动平均线
 
 基于双均线

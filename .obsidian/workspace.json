@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/盈亏比.md",
+                "file": "量化交易/指标/MACD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/盈亏比.md",
+                "file": "量化交易/指标/MACD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/盈亏比.md",
+                "file": "量化交易/指标/MACD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/盈亏比.md"
+                "file": "量化交易/指标/MACD.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
-    "量化交易/回调.md",
+    "assets/Pasted image 20240511004219.png",
+    "assets/Pasted image 20240511004104.png",
+    "assets/Pasted image 20240511004015.png",
+    "assets/Pasted image 20240511003840.png",
+    "assets/Pasted image 20240511003832.png",
     "量化交易/盈亏比.md",
+    "量化交易/回调.md",
     "量化交易/趋势线.md",
     "量化交易/时间周期 Time Frame.md",
     "date/2024-05-09.md",
@@ -172,10 +177,6 @@
     "assets/Pasted image 20240509183031.png",
     "assets/Pasted image 20240509181336.png",
     "assets/Pasted image 20240509180848.png",
-    "assets/Pasted image 20240509180846.png",
-    "assets/Pasted image 20240509174754.png",
-    "assets/Pasted image 20240509174610.png",
-    "assets/Pasted image 20240509171639.png",
     "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "量化交易/策略/布林通道机器人.md",
     "量化交易/TV策略.md",
@@ -185,7 +186,6 @@
     "titan",
     "量化交易/指标/gate.io提供的指标.md",
     "技术相关/wsl2支持识别SD卡.md",
-    "技术相关/riscv启动kernal.md",
     "技术相关",
     "杂项",
     "策略/assets/StockSharp使用",
