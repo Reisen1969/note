@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/脚本/未命名.md",
-                "mode": "preview",
+                "file": "量化交易/策略/三率全优的神级交易系统.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/脚本/未命名.md",
+                "file": "量化交易/策略/三率全优的神级交易系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/脚本/未命名.md",
+                "file": "量化交易/策略/三率全优的神级交易系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/脚本/未命名.md"
+                "file": "量化交易/策略/三率全优的神级交易系统.md"
               }
             }
           }
@@ -149,8 +150,10 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
-    "date/2024-05-12.md",
+    "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
+    "量化交易/策略/三率全优的神级交易系统.md",
     "量化交易/脚本/未命名.md",
+    "date/2024-05-12.md",
     "量化交易/脚本",
     "量化交易/指标/MACD.md",
     "assets/Pasted image 20240511004219.png",
@@ -173,7 +176,6 @@
     "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
     "量化交易/指标/TV提供的指标.md",
     "量化交易/策略/道氏理论123, 2B.md",
-    "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
     "assets/Pasted image 20240509183725.png",
     "assets/Pasted image 20240509183411.png",
     "assets/Pasted image 20240509183237.png",
@@ -186,7 +188,6 @@
     "量化交易/黄金交叉和死亡交叉.md",
     "titan/docker.md",
     "titan",
-    "量化交易/指标/gate.io提供的指标.md",
     "技术相关",
     "杂项",
     "策略/assets/StockSharp使用",
