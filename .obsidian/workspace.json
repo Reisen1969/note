@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md",
+                "file": "量化交易/策略/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md",
+                "file": "量化交易/策略/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md",
+                "file": "量化交易/策略/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md"
+                "file": "量化交易/策略/未命名.md"
               }
             }
           }
@@ -150,10 +149,11 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "量化交易/策略/三率全优的神级交易系统.md",
+    "量化交易/策略/未命名.md",
     "assets/Pasted image 20240516235330.png",
     "assets/Pasted image 20240516234932.png",
     "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
-    "量化交易/策略/三率全优的神级交易系统.md",
     "量化交易/脚本/未命名.md",
     "date/2024-05-12.md",
     "量化交易/脚本",
@@ -181,7 +181,6 @@
     "assets/Pasted image 20240509183725.png",
     "assets/Pasted image 20240509183411.png",
     "assets/Pasted image 20240509183237.png",
-    "assets/Pasted image 20240509183031.png",
     "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "量化交易/策略/布林通道机器人.md",
     "量化交易/TV策略.md",
