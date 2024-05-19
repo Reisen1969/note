@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/策略/GPT-MA-KDJ.md",
+                "file": "量化交易/策略/布林通道机器人.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/策略/GPT-MA-KDJ.md",
+                "file": "量化交易/策略/布林通道机器人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/策略/GPT-MA-KDJ.md",
+                "file": "量化交易/策略/布林通道机器人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/策略/GPT-MA-KDJ.md"
+                "file": "量化交易/策略/布林通道机器人.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b484c47e02a29285",
+  "active": "202ac1dc9411f95c",
   "lastOpenFiles": [
-    "量化交易/策略/三率全优的神级交易系统.md",
+    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
+    "量化交易/策略/布林通道机器人.md",
     "量化交易/策略/GPT-MA-KDJ.md",
+    "量化交易/策略/三率全优的神级交易系统.md",
     "assets/Pasted image 20240516235330.png",
     "assets/Pasted image 20240516234932.png",
     "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
@@ -181,8 +183,6 @@
     "assets/Pasted image 20240509183725.png",
     "assets/Pasted image 20240509183411.png",
     "assets/Pasted image 20240509183237.png",
-    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
-    "量化交易/策略/布林通道机器人.md",
     "量化交易/TV策略.md",
     "量化交易/止盈止损&杠杆.md",
     "量化交易/黄金交叉和死亡交叉.md",
