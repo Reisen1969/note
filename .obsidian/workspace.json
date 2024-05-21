@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/交易系统.md",
+                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/交易系统.md",
+                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/交易系统.md",
+                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/交易系统.md"
+                "file": "量化交易/策略/布林通道交易策略 BollingerBands strategy.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
-    "量化交易/趋势线.md",
     "量化交易/交易系统.md",
+    "量化交易/趋势线.md",
     "量化交易/盈亏比.md",
     "量化交易/时间周期 Time Frame.md",
     "量化交易/脚本/常用.md",
