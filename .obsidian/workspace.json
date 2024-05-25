@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md",
+                "file": "量化交易/交易系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md",
+                "file": "量化交易/交易系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md",
+                "file": "量化交易/交易系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md"
+                "file": "量化交易/交易系统.md"
               }
             }
           }
@@ -150,38 +149,38 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
-    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
+    "量化交易/回调.md",
     "量化交易/交易系统.md",
+    "量化交易/指标/TV提供的指标.md",
+    "量化交易/指标/MACD.md",
+    "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
+    "量化交易/指标/随机指标 Stochastics (KDJ).md",
+    "量化交易/指标/肯特纳通道 Keltner Channels.md",
+    "量化交易/指标/均线.md",
+    "量化交易/指标/成交量.md",
+    "量化交易/指标/布林带BB.md",
+    "量化交易/策略/三率全优的神级交易系统.md",
+    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "量化交易/趋势线.md",
     "量化交易/盈亏比.md",
     "量化交易/时间周期 Time Frame.md",
     "量化交易/脚本/常用.md",
     "date/2024-05-19.md",
-    "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "量化交易/策略/布林通道机器人.md",
     "量化交易/策略/GPT-MA-KDJ.md",
-    "量化交易/策略/三率全优的神级交易系统.md",
     "assets/Pasted image 20240516235330.png",
     "assets/Pasted image 20240516234932.png",
     "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
     "date/2024-05-12.md",
     "量化交易/脚本",
-    "量化交易/指标/MACD.md",
     "assets/Pasted image 20240511004219.png",
     "assets/Pasted image 20240511004104.png",
     "assets/Pasted image 20240511004015.png",
     "assets/Pasted image 20240511003840.png",
     "assets/Pasted image 20240511003832.png",
-    "量化交易/回调.md",
     "date/2024-05-09.md",
     "date/2024-04-15.md",
     "date/2024-05-08.md",
-    "量化交易/指标/布林带BB.md",
-    "量化交易/指标/成交量.md",
-    "量化交易/指标/均线.md",
-    "量化交易/指标/肯特纳通道 Keltner Channels.md",
-    "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
-    "量化交易/指标/TV提供的指标.md",
     "量化交易/策略/道氏理论123, 2B.md",
     "assets/Pasted image 20240509183725.png",
     "assets/Pasted image 20240509183411.png",
