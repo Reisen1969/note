@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
+                "file": "量化交易/指标/MACD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
+                "file": "量化交易/指标/MACD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
+                "file": "量化交易/指标/MACD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md"
+                "file": "量化交易/指标/MACD.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "assets/Pasted image 20240526153620.png",
     "量化交易/指标/TV提供的指标.md",
     "量化交易/指标/MACD.md",
@@ -159,7 +160,6 @@
     "量化交易/脚本/获取前高和前低.md",
     "量化交易/脚本/KDJ的计算和使用.md",
     "量化交易/指标/肯特纳通道 Keltner Channels.md",
-    "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
     "量化交易/指标/布林带BB.md",
     "量化交易/指标/成交量.md",
@@ -185,7 +185,6 @@
     "date/2024-04-15.md",
     "assets/Pasted image 20240509183725.png",
     "assets/Pasted image 20240509183411.png",
-    "assets/Pasted image 20240509183237.png",
     "titan",
     "技术相关",
     "杂项",
