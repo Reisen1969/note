@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -150,9 +149,9 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
-    "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
     "量化交易/指标/TV提供的指标.md",
     "量化交易/指标/MACD.md",
+    "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
     "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "量化交易/指标/肯特纳通道 Keltner Channels.md",
     "量化交易/指标/均线.md",
