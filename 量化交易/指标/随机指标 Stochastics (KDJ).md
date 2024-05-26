@@ -4,6 +4,9 @@ https://cn.tradingview.com/support/solutions/43000502332/
 KDJ指标（Stochastic Oscillator）是一种常用的技术分析工具，用于判断市场的超买和超卖状态。KDJ指标由K线、D线和J线组成，常用于股票和期货市场的技术分析。以下是KDJ指标的参数和计算方式：
 
 ### 参数
+默认参数是 (9, 3, 3)
+
+
 
 1. **N**：统计周期，常用的值为9天。即计算过去N天的最高价、最低价和收盘价。
 2. **M1**：K值的平滑天数，常用的值为3天。
@@ -12,8 +15,9 @@ KDJ指标（Stochastic Oscillator）是一种常用的技术分析工具，用�
 常见的默认设置是 KDJ(9, 3, 3)。
 
 
-![](../../assets/Pasted%20image%2020240526153620.png)
+![](../../assets/Pasted%20image%2020240526194500.png)
 
 
+9代表 
 
 
