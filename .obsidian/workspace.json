@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
+                "file": "量化交易/指标/TV提供的指标.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
+                "file": "量化交易/指标/TV提供的指标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md",
+                "file": "量化交易/指标/TV提供的指标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/指标/随机指标 Stochastics (KDJ).md"
+                "file": "量化交易/指标/TV提供的指标.md"
               }
             }
           }
@@ -150,13 +149,13 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "assets/Pasted image 20240526194500.png",
     "assets/Pasted image 20240526194100.png",
     "量化交易/指标/肯特纳通道 Keltner Channels.md",
     "量化交易/指标/成交量.md",
     "量化交易/指标/布林带BB.md",
     "量化交易/指标/MACD.md",
-    "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "assets/Pasted image 20240526153620.png",
     "量化交易/指标/TV提供的指标.md",
     "量化交易/策略/GPT-MA-KDJ.md",
@@ -186,7 +185,6 @@
     "assets/Pasted image 20240511003832.png",
     "date/2024-05-09.md",
     "date/2024-04-15.md",
-    "assets/Pasted image 20240509183725.png",
     "titan",
     "技术相关",
     "杂项",
