@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/npm electron nodejs 关系.md",
+                "file": "js/开发流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/npm electron nodejs 关系.md",
+                "file": "js/开发流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/npm electron nodejs 关系.md",
+                "file": "js/开发流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/npm electron nodejs 关系.md"
+                "file": "js/开发流程.md"
               }
             }
           }
@@ -149,9 +150,9 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "js/npm electron nodejs 关系.md",
     "js/开发流程.md",
     "mechanical flatbread",
-    "js/npm electron nodejs 关系.md",
     "量化交易/策略/道氏理论123, 2B.md",
     "js",
     "quantitative trading/StockSharp使用.md",
