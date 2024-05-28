@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/开发流程.md",
+                "file": "js/npm electron nodejs 关系.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/开发流程.md",
+                "file": "js/npm electron nodejs 关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/开发流程.md",
+                "file": "js/npm electron nodejs 关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/开发流程.md"
+                "file": "js/npm electron nodejs 关系.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "js/开发流程.md",
     "mechanical flatbread",
     "js/npm electron nodejs 关系.md",
-    "js/开发流程.md",
     "量化交易/策略/道氏理论123, 2B.md",
     "js",
     "quantitative trading/StockSharp使用.md",
@@ -193,7 +193,6 @@
     "策略/assets/StockSharp使用",
     "assets",
     "策略/assets/布林带策略 bollinger Bands Strategy",
-    "策略/assets",
-    "策略/未命名"
+    "策略/assets"
   ]
 }
