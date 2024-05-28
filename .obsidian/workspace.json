@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/策略/道氏理论123, 2B.md",
+                "file": "js/npm electron nodejs 关系.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/策略/道氏理论123, 2B.md",
+                "file": "js/npm electron nodejs 关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/策略/道氏理论123, 2B.md",
+                "file": "js/npm electron nodejs 关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/策略/道氏理论123, 2B.md"
+                "file": "js/npm electron nodejs 关系.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "量化交易/策略/道氏理论123, 2B.md",
+    "js/npm electron nodejs 关系.md",
+    "js",
+    "quantitative trading/StockSharp使用.md",
+    "quantitative trading/lean 使用.md",
     "量化交易/策略/三率全优的神级交易系统.md",
     "量化交易/策略/发送警报.md",
     "量化交易/策略/GPT-MA-KDJ.md",
@@ -162,7 +167,6 @@
     "量化交易/指标/MACD.md",
     "assets/Pasted image 20240526153620.png",
     "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
-    "量化交易/策略/道氏理论123, 2B.md",
     "量化交易/脚本/获取前高和前低.md",
     "量化交易/脚本/KDJ的计算和使用.md",
     "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
@@ -177,15 +181,12 @@
     "date/2024-05-19.md",
     "assets/Pasted image 20240516235330.png",
     "assets/Pasted image 20240516234932.png",
-    "date/2024-05-12.md",
     "量化交易/脚本",
     "assets/Pasted image 20240511004219.png",
     "assets/Pasted image 20240511004104.png",
     "assets/Pasted image 20240511004015.png",
     "assets/Pasted image 20240511003840.png",
     "assets/Pasted image 20240511003832.png",
-    "date/2024-05-09.md",
-    "date/2024-04-15.md",
     "titan",
     "技术相关",
     "杂项",
@@ -193,7 +194,6 @@
     "assets",
     "策略/assets/布林带策略 bollinger Bands Strategy",
     "策略/assets",
-    "策略/未命名",
-    "量化交易/策略"
+    "策略/未命名"
   ]
 }
