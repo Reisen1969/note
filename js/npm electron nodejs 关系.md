@@ -3,3 +3,5 @@ node.js是运行在服务端的javascript，electron是基于Node.js的上层框
 
 
 Electron 提供了跨平台的桌面应用运行时
+
+https://github.com/sindresorhus/awesome-electron#boilerplates
