@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md",
+                "file": "date/2024-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md",
+                "file": "date/2024-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md",
+                "file": "date/2024-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/策略/三率全优的神级交易系统.md"
+                "file": "date/2024-05-29.md"
               }
             }
           }
@@ -150,6 +149,9 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "量化交易/策略/三率全优的神级交易系统.md",
+    "date/2024-05-29.md",
+    "量化交易/策略/GPT-MA-KDJ.md",
     "js/开发流程.md",
     "js/npm electron nodejs 关系.md",
     "mechanical flatbread",
@@ -157,9 +159,7 @@
     "js",
     "quantitative trading/StockSharp使用.md",
     "quantitative trading/lean 使用.md",
-    "量化交易/策略/三率全优的神级交易系统.md",
     "量化交易/策略/发送警报.md",
-    "量化交易/策略/GPT-MA-KDJ.md",
     "量化交易/指标/TV提供的指标.md",
     "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "assets/Pasted image 20240526194500.png",
