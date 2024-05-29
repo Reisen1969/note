@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/脚本/编辑器的运行逻辑.md",
+                "file": "date/2024-05-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "26c903d658d6758a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/脚本/编辑器的运行逻辑.md",
+                "file": "date/2024-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/脚本/编辑器的运行逻辑.md",
+                "file": "date/2024-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/脚本/编辑器的运行逻辑.md"
+                "file": "date/2024-05-12.md"
               }
             }
           }
@@ -150,6 +149,12 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "date/2024-05-09.md",
+    "date/2024-05-12.md",
+    "date/2024-05-19.md",
+    "date/2024-05-29.md",
+    "date/2024-05-30.md",
+    "量化交易/脚本/编辑器的运行逻辑.md",
     "assets/Pasted image 20240530000210.png",
     "assets/Pasted image 20240529205621.png",
     "assets/Pasted image 20240529205516.png",
@@ -159,8 +164,6 @@
     "assets/Pasted image 20240529204018.png",
     "assets/Pasted image 20240529204016.png",
     "assets/Pasted image 20240529200352.png",
-    "date/2024-05-29.md",
-    "量化交易/脚本/编辑器的运行逻辑.md",
     "量化交易/策略/三率全优的神级交易系统.md",
     "量化交易/策略/GPT-MA-KDJ.md",
     "js/开发流程.md",
@@ -174,7 +177,6 @@
     "量化交易/指标/TV提供的指标.md",
     "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "assets/Pasted image 20240526194500.png",
-    "assets/Pasted image 20240526194100.png",
     "量化交易/指标/肯特纳通道 Keltner Channels.md",
     "量化交易/指标/成交量.md",
     "量化交易/指标/布林带BB.md",
@@ -185,9 +187,6 @@
     "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
     "量化交易/指标/均线.md",
     "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
-    "量化交易/回调.md",
-    "量化交易/策略/布林通道机器人.md",
-    "量化交易/趋势线.md",
     "量化交易/脚本",
     "titan",
     "技术相关",
