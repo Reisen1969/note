@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化交易/脚本/获取前高和前低.md",
+                "file": "量化交易/策略/三率全优的神级交易系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化交易/脚本/获取前高和前低.md",
+                "file": "量化交易/策略/三率全优的神级交易系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化交易/脚本/获取前高和前低.md",
+                "file": "量化交易/策略/三率全优的神级交易系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化交易/脚本/获取前高和前低.md"
+                "file": "量化交易/策略/三率全优的神级交易系统.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "date/2024-05-31.md",
+    "量化交易/脚本/获取前高和前低.md",
     "date/2024-05-12.md",
     "date/2024-05-09.md",
     "date/2024-05-19.md",
@@ -182,11 +184,9 @@
     "量化交易/指标/布林带BB.md",
     "量化交易/指标/MACD.md",
     "量化交易/策略/动量交易策略 Momentum Trading Strategy.md",
-    "量化交易/脚本/获取前高和前低.md",
     "量化交易/脚本/KDJ的计算和使用.md",
     "量化交易/指标/MA 移动平均线（Moving Avarage）.md",
     "量化交易/指标/均线.md",
-    "量化交易/策略/布林通道交易策略 BollingerBands strategy.md",
     "量化交易/脚本",
     "titan",
     "技术相关",
