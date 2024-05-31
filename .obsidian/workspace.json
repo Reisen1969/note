@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "date/2024-05-31.md",
+                "file": "js/开发流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date/2024-05-31.md",
+                "file": "js/开发流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date/2024-05-31.md",
+                "file": "js/开发流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "date/2024-05-31.md"
+                "file": "js/开发流程.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "js/npm electron nodejs 关系.md",
+    "js/开发流程.md",
+    "date/2024-05-31.md",
     "量化交易/各种指标的默认颜色.md",
     "量化交易/策略/三率全优的神级交易系统.md",
-    "date/2024-05-31.md",
     "量化交易/脚本/获取前高和前低.md",
     "date/2024-05-12.md",
     "date/2024-05-09.md",
@@ -169,8 +171,6 @@
     "assets/Pasted image 20240529204016.png",
     "assets/Pasted image 20240529200352.png",
     "量化交易/策略/GPT-MA-KDJ.md",
-    "js/开发流程.md",
-    "js/npm electron nodejs 关系.md",
     "mechanical flatbread",
     "量化交易/策略/道氏理论123, 2B.md",
     "js",
