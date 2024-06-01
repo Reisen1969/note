@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/npm electron nodejs 关系.md",
+                "file": "js/开发流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/npm electron nodejs 关系.md",
+                "file": "js/开发流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/npm electron nodejs 关系.md",
+                "file": "js/开发流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/npm electron nodejs 关系.md"
+                "file": "js/开发流程.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b484c47e02a29285",
+  "active": "202ac1dc9411f95c",
   "lastOpenFiles": [
-    "js/开发流程.md",
     "js/npm electron nodejs 关系.md",
+    "js/开发流程.md",
     "date/2024-05-31.md",
     "量化交易/各种指标的默认颜色.md",
     "量化交易/策略/三率全优的神级交易系统.md",
