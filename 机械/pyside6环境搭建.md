@@ -20,6 +20,11 @@ C:\Python312\Lib\site-packages\PySide6\rcc.exe
 C:\Python312\Lib\site-packages\PySide6\uic.exe
 
 
+C:\Python312\Scripts\pyside6-rcc.exe
+
+C:\Python312\Scripts\pyside6-uic.exe
+
+
 ```
 
 ```
