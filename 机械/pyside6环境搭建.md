@@ -21,3 +21,8 @@ C:\Python312\Lib\site-packages\PySide6\uic.exe
 
 
 ```
+
+```
+pip install PySide6==6.6.2
+
+```
