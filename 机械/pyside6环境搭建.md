@@ -30,6 +30,8 @@ C:\Python312\Scripts\pyside6-uic.exe
 ```
 pip install PySide6==6.6.2
 
+
+
 ```
 
 
