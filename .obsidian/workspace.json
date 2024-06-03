@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机械/py访问进程.md",
+                "file": "机械/未命名 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机械/py访问进程.md",
+                "file": "机械/未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机械/py访问进程.md",
+                "file": "机械/未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机械/py访问进程.md"
+                "file": "机械/未命名 1.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
-    "量化交易/策略/三率全优的神级交易系统.md",
+    "机械/pyside6环境搭建.md",
+    "机械/未命名 1.md",
     "机械/py访问进程.md",
     "机械/未命名.md",
-    "机械/pyside6环境搭建.md",
+    "量化交易/策略/三率全优的神级交易系统.md",
     "js/开发流程.md",
     "机械",
     "js/npm electron nodejs 关系.md",
@@ -187,7 +188,6 @@
     "量化交易/指标/肯特纳通道 Keltner Channels.md",
     "量化交易/指标/成交量.md",
     "量化交易/指标/布林带BB.md",
-    "量化交易/指标/MACD.md",
     "量化交易/脚本",
     "titan",
     "技术相关",
