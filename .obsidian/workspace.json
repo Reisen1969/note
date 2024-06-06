@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e00eed4ec3e11711",
+        "id": "90d2991a7e97db6b",
         "type": "tabs",
         "children": [
           {
-            "id": "b484c47e02a29285",
+            "id": "4b7d0f4389d701f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b484c47e02a29285",
+  "active": "4b7d0f4389d701f8",
   "lastOpenFiles": [
+    "机械/pyside6环境搭建.md",
     "机械/未命名.md",
+    "机械/未命名 1.md",
+    "机械/py访问进程.md",
     "机械/设计文档.md",
+    "date/2024-06-07.md",
     "js/变量.md",
     "js/开发流程.md",
     "js/npm electron nodejs 关系.md",
@@ -158,9 +162,6 @@
     "量化交易/脚本/编辑器的运行逻辑.md",
     "量化交易/脚本/获取前高和前低.md",
     "量化交易/脚本/KDJ的计算和使用.md",
-    "机械/未命名 1.md",
-    "机械/py访问进程.md",
-    "机械/pyside6环境搭建.md",
     "量化交易/策略/三率全优的神级交易系统.md",
     "机械",
     "date/2024-05-31.md",
@@ -187,7 +188,6 @@
     "quantitative trading/lean 使用.md",
     "量化交易/策略/发送警报.md",
     "量化交易/指标/TV提供的指标.md",
-    "量化交易/指标/随机指标 Stochastics (KDJ).md",
     "量化交易/脚本",
     "titan",
     "技术相关",
