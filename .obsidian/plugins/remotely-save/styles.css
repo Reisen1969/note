@@ -17,6 +17,10 @@
   padding-top: 18px;
 }
 
+.settings-percentage-custom-hide {
+  display: none;
+}
+
 .s3-disclaimer {
   font-weight: bold;
 }
@@ -68,6 +72,25 @@
   display: none;
 }
 
+.googledrive-disclaimer {
+  font-weight: bold;
+}
+.googledrive-hide {
+  display: none;
+}
+
+.googledrive-allow-to-use-hide {
+  display: none;
+}
+
+.googledrive-auth-button-hide {
+  display: none;
+}
+
+.googledrive-revoke-auth-button-hide {
+  display: none;
+}
+
 .qrcode-img {
   width: 350px;
   height: 350px;
@@ -82,6 +105,22 @@
   font-weight: bolder;
 }
 
-.setting-need-wrapping-mobile .setting-item-control {
-  flex-wrap: wrap;
+.setting-need-wrapping .setting-item-control {
+  /* flex-wrap: wrap; */
+  display: grid;
+}
+
+.pro-disclaimer {
+  font-weight: bold;
+}
+.pro-hide {
+  display: none;
+}
+
+.pro-auth-button-hide {
+  display: none;
+}
+
+.pro-revoke-auth-button-hide {
+  display: none;
 }

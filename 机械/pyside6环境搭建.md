@@ -35,3 +35,10 @@ pip install PySide6==6.6.2
 ```
 
 
+### ui 转 py
+```
+pyuic6 main_window.ui -o main_window_ui.py
+pyuic6 sub_window.ui -o sub_window_ui.py
+
+
+```
