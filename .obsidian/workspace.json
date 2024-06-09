@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机械/设计文档.md",
+                "file": "date/2024-06-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机械/设计文档.md",
+                "file": "date/2024-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机械/设计文档.md",
+                "file": "date/2024-06-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机械/设计文档.md"
+                "file": "date/2024-06-09.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "4b7d0f4389d701f8",
   "lastOpenFiles": [
+    "机械/设计文档.md",
+    "date/2024-06-09.md",
     "机械/pyside6环境搭建.md",
     "机械/python 导出可执行文件.md",
-    "机械/设计文档.md",
     "机械/未命名.md",
     "机械/使用python虚拟环境.md",
     "js/npm electron nodejs 关系.md",
@@ -186,7 +187,6 @@
     "assets/Pasted image 20240529200352.png",
     "量化交易/策略/GPT-MA-KDJ.md",
     "mechanical flatbread",
-    "量化交易/策略/道氏理论123, 2B.md",
     "js",
     "量化交易/脚本",
     "titan",
