@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e19db6852e9decf0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e19db6852e9decf0",
+  "active": "4b7d0f4389d701f8",
   "lastOpenFiles": [
     "机械/pyside6环境搭建.md",
     "机械/python 导出可执行文件.md",
