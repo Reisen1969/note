@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机械/pyside6环境搭建.md",
+                "file": "机械/设计文档.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e19db6852e9decf0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机械/pyside6环境搭建.md",
+                "file": "机械/设计文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机械/pyside6环境搭建.md",
+                "file": "机械/设计文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机械/pyside6环境搭建.md"
+                "file": "机械/设计文档.md"
               }
             }
           }
@@ -147,12 +158,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4b7d0f4389d701f8",
+  "active": "e19db6852e9decf0",
   "lastOpenFiles": [
+    "机械/pyside6环境搭建.md",
     "机械/python 导出可执行文件.md",
     "机械/设计文档.md",
     "机械/未命名.md",
-    "机械/pyside6环境搭建.md",
     "机械/使用python虚拟环境.md",
     "js/npm electron nodejs 关系.md",
     "js/开发流程.md",
