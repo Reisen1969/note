@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Source Code Pro",
+  "monospaceFontFamily": "Source Code Pro"
 }
