@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e00eed4ec3e11711",
+        "id": "90d2991a7e97db6b",
         "type": "tabs",
         "children": [
           {
-            "id": "b484c47e02a29285",
+            "id": "4b7d0f4389d701f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "date/2024-06-15.md",
+                "file": "机械/Mechanical Pai设计文档.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date/2024-06-15.md",
+                "file": "机械/Mechanical Pai设计文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date/2024-06-15.md",
+                "file": "机械/Mechanical Pai设计文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "date/2024-06-15.md"
+                "file": "机械/Mechanical Pai设计文档.md"
               }
             }
           }
@@ -147,25 +147,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b484c47e02a29285",
+  "active": "4b7d0f4389d701f8",
   "lastOpenFiles": [
-    "date/2024-06-15.md",
-    "机械/pyside6环境搭建.md",
-    "date/2024-06-14.md",
-    "机械/python 导出可执行文件.md",
-    "conflict-files-obsidian-git.md",
     "机械/功德箱.md",
-    "机械/使用python虚拟环境.md",
+    "机械/python 导出可执行文件.md",
+    "机械/pyside6环境搭建.md",
     "机械/Mechanical Pai设计文档.md",
+    "机械/使用python虚拟环境.md",
+    "date/2024-06-15.md",
+    "date/2024-06-14.md",
     "date/2024-06-09.md",
-    "机械/设计文档.md",
-    "机械/py访问进程.md",
-    "date/2024-06-07.md",
-    "机械/未命名.md",
-    "机械/未命名 1.md",
-    "js/变量.md",
-    "js/开发流程.md",
     "js/npm electron nodejs 关系.md",
+    "js/开发流程.md",
+    "js/变量.md",
+    "杂项/obsidian插入图片.md",
+    "杂项/obsidian文件属性.md",
+    "机械/py访问进程.md",
+    "机械/未命名 1.md",
+    "date/2024-06-07.md",
     "assets/Pasted image 20240605213424.png",
     "量化交易/脚本/编辑器的运行逻辑.md",
     "量化交易/脚本/获取前高和前低.md",
@@ -177,6 +176,7 @@
     "date/2024-05-12.md",
     "date/2024-05-09.md",
     "date/2024-05-19.md",
+    "date/2024-05-29.md",
     "assets/Pasted image 20240530000210.png",
     "assets/Pasted image 20240529205621.png",
     "assets/Pasted image 20240529205516.png",
