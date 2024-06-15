@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "date/2024-06-14.md",
+                "file": "date/2024-06-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date/2024-06-14.md",
+                "file": "date/2024-06-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date/2024-06-14.md",
+                "file": "date/2024-06-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "date/2024-06-14.md"
+                "file": "date/2024-06-15.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "b484c47e02a29285",
   "lastOpenFiles": [
+    "date/2024-06-15.md",
     "机械/pyside6环境搭建.md",
     "date/2024-06-14.md",
     "机械/python 导出可执行文件.md",
@@ -176,7 +177,6 @@
     "date/2024-05-12.md",
     "date/2024-05-09.md",
     "date/2024-05-19.md",
-    "date/2024-05-29.md",
     "assets/Pasted image 20240530000210.png",
     "assets/Pasted image 20240529205621.png",
     "assets/Pasted image 20240529205516.png",
