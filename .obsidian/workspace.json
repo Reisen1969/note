@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机械/Mechanical Pai设计文档.md",
+                "file": "减脂/荞麦面.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机械/Mechanical Pai设计文档.md",
+                "file": "减脂/荞麦面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机械/Mechanical Pai设计文档.md",
+                "file": "减脂/荞麦面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机械/Mechanical Pai设计文档.md"
+                "file": "减脂/荞麦面.md"
               }
             }
           }
@@ -149,10 +149,14 @@
   },
   "active": "4b7d0f4389d701f8",
   "lastOpenFiles": [
+    "技术相关/wsl2支持识别SD卡.md",
+    "减脂/荞麦面.md",
+    "测试图片.md",
+    "减脂",
+    "机械/Mechanical Pai设计文档.md",
     "机械/功德箱.md",
     "机械/python 导出可执行文件.md",
     "机械/pyside6环境搭建.md",
-    "机械/Mechanical Pai设计文档.md",
     "机械/使用python虚拟环境.md",
     "date/2024-06-15.md",
     "date/2024-06-14.md",
@@ -174,9 +178,6 @@
     "date/2024-05-31.md",
     "量化交易/各种指标的默认颜色.md",
     "date/2024-05-12.md",
-    "date/2024-05-09.md",
-    "date/2024-05-19.md",
-    "date/2024-05-29.md",
     "assets/Pasted image 20240530000210.png",
     "assets/Pasted image 20240529205621.png",
     "assets/Pasted image 20240529205516.png",
@@ -193,7 +194,6 @@
     "技术相关",
     "杂项",
     "策略/assets/StockSharp使用",
-    "assets",
-    "策略/assets/布林带策略 bollinger Bands Strategy"
+    "assets"
   ]
 }
