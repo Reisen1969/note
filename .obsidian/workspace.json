@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "减脂/荞麦面.md",
+                "file": "减脂/食材.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "减脂/荞麦面.md",
+                "file": "减脂/食材.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "减脂/荞麦面.md",
+                "file": "减脂/食材.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "减脂/荞麦面.md"
+                "file": "减脂/食材.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "4b7d0f4389d701f8",
   "lastOpenFiles": [
     "技术相关/wsl2支持识别SD卡.md",
-    "减脂/荞麦面.md",
+    "减脂/食材.md",
     "测试图片.md",
     "减脂",
     "机械/Mechanical Pai设计文档.md",
